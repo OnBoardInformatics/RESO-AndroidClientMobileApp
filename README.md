@@ -7,3 +7,6 @@ Since we are using Custom Methods on WebGet with datas coming from the stored pr
 
 The code is built using Microsoft Visual Studio 2013 with Xamarin plugin provided by Xamarin studios.
 
+
+For Detailed Information, Please checkout the google doc
+https://docs.google.com/document/d/15u2AxPWgNf3NGi2LQLSZmJTKk_bs-ndplqOMW--1xDY/edit
