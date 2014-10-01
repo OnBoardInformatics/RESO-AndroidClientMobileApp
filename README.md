@@ -9,4 +9,4 @@ The code is built using Microsoft Visual Studio 2013 with Xamarin plugin provide
 
 
 For Detailed Information, Please checkout the google doc
-https://docs.google.com/document/d/15u2AxPWgNf3NGi2LQLSZmJTKk_bs-ndplqOMW--1xDY/edit
+https://docs.google.com/document/d/1kvpwkoy2p2yGvlJm9wN2GFUniUQy6tWRMOGjMLW6iUg/edit#
