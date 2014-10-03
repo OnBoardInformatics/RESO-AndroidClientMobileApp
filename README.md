@@ -8,5 +8,6 @@ Since we are using Custom Methods on WebGet with datas coming from the stored pr
 The code is built using Microsoft Visual Studio 2013 with Xamarin plugin provided by Xamarin studios.
 
 
-For Detailed Information, Please checkout the google doc
-https://docs.google.com/document/d/1kvpwkoy2p2yGvlJm9wN2GFUniUQy6tWRMOGjMLW6iUg/edit#
+Please refer to the following documentation for more information:
+
+https://docs.google.com/document/d/1kvpwkoy2p2yGvlJm9wN2GFUniUQy6tWRMOGjMLW6iUg/edit#heading=h.tk90f48ey8c3
